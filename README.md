@@ -1,1 +1,1 @@
-This is a new README for my test file.
+This is a new README for my test file. I just added a new sentence to test what happens as well. It told me README.md was modified.
